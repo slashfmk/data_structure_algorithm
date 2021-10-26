@@ -2,7 +2,7 @@
 // Created by Yannick Fumukani on 10/23/21.
 //
 #include <climits>
-#include "headers/arrayUtil.h"
+#include "../headers/arrayUtil.h"
 
 long largerNumber(int inputArray[], int size) {
     long largerN = INT_MIN;

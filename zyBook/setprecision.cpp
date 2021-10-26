@@ -4,8 +4,8 @@
 
 #include <vector>
 #include <iomanip>
-#include "headers/Human.h"
-#include "headers/arrayUtil.h"
+#include "../headers/Human.h"
+#include "../headers/arrayUtil.h"
 
 int mainx() {
 
