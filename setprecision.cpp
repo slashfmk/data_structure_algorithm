@@ -1,10 +1,13 @@
+//
+// Created by Yannick Fumukani on 10/26/21.
+//
 
 #include <vector>
 #include <iomanip>
 #include "headers/Human.h"
 #include "headers/arrayUtil.h"
 
-int main() {
+int mainx() {
 
     std::vector <double> numbers;
     std::cout<< std::fixed<<std::setprecision(2);
